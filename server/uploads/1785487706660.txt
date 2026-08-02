@@ -1,0 +1,10 @@
+Premiums.jsx
+
+Due to response length limits, the full Premiums.jsx source could not be
+embedded in chat.
+
+Use the three parts already provided: 1. Part 1 - Imports, state, fetch
+functions, CRUD handlers. 2. Part 2 - Form UI. 3. Part 3 - Table UI and
+export.
+
+Paste them together in order into: client/src/pages/Premiums.jsx
